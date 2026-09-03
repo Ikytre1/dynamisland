@@ -105,3 +105,36 @@ To use LocalSend, you **DO NOT** need it installed on your system; its features 
 
 Just take a file and drag it into the island and select your device (both need to be on the same network)
 > **REMEMBER :** As a first release, it's not perfect don't expect a result of a whole team work, i did this only by myself and it's my first repo. But i spent a lot of time to optimize it. Any issues or improvements requests are welcome!
+
+
+
+
+# Mon Application 🚀
+
+Une description rapide de ton application actuelle (V2).
+
+## 📺 Évolution de l'interface (V1 vs V2)
+
+Découvre comment l'interface a changé entre la première version et la version actuelle.
+
+<details>
+<summary><b>🎬 Voir la Version 2 (Actuelle)</b></summary>
+
+### Interface V2
+Voici la nouvelle interface avec les dernières améliorations.
+
+https://github.com
+
+</details>
+
+<details>
+<summary><b>🎬 Voir la Version 1 (Ancienne)</b></summary>
+
+### Interface V1
+L'ancienne version de l'application pour archive.
+
+https://github.com
+
+_Pour plus de détails sur le code de cette version, consulte le [README de la V1](./docs/README-v1.md)._
+</details>
+
