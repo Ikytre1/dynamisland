@@ -1,0 +1,166 @@
+{
+  
+    "bar": {
+
+        "pill": {
+            "appGap": 1,
+            "barMode": false,
+            "clockSeconds": false,
+            "compactAnnounces": false,
+            "glyphs": {
+                "battery": "",
+                "calendar": "",
+                "clear": "",
+                "clipboard": "",
+                "clipboardSearch": "",
+                "clock": "",
+                "dnd": "",
+                "glance": "",
+                "launcher": "",
+                "link": "",
+                "media": "",
+                "mediaPaused": "",
+                "mixer": "",
+                "notify": "",
+                "power": "",
+                "recorder": "",
+                "sysmon": "",
+                "workspaces": ""
+            },
+            "iconSize": 22,
+            "iconSpacing": 16,
+            "modules": {
+                "battery": true,
+                "inbox": true,
+                "mixer": true,
+                "power": true,
+                "sidebars": true,
+                "tray": true,
+                "weather": true,
+                "wifi": true,
+                "workspaces": true
+            },
+            "musicViz": true,
+            "opacity": 1,
+            "osd": true,
+            "rowSpacing": 20,
+            "scale": 1.34,
+            "showGlyphs": false,
+            "soul": {
+                "enable": true,
+                "size": 1,
+                "style": "orb"
+            },
+            "surfaces": {
+                "clipboard": true,
+                "glance": false,
+                "launcher": true,
+                "recorder": true,
+                "sysmon": true
+            },
+            "time12h": false,
+            "toasts": true,
+            "topGap": 0.5
+        },
+        "resources": {
+            "alwaysShowCpu": true,
+            "alwaysShowGpu": true,
+            "alwaysShowSwap": true,
+            "alwaysShowTemp": true,
+            "cpuWarningThreshold": 90,
+            "gpuWarningThreshold": 90,
+            "memoryWarningThreshold": 95,
+            "showCpuIndicator": true,
+            "showGpuIndicator": true,
+            "showMemoryIndicator": true,
+            "showSwapIndicator": true,
+            "showTempIndicator": true,
+            "swapWarningThreshold": 85,
+            "tempCautionThreshold": 65,
+            "tempWarningThreshold": 80
+        },
+        "rightScrollAction": "volume",
+        "screenList": [],
+        "showBackground": true,
+        "showScrollHints": true,
+        "topLeftIcon": "distro",
+        "tray": {
+            "filterPassive": true,
+            "invertPinnedItems": true,
+            "monochromeIcons": true,
+            "pinnedItems": [],
+            "showItemId": false
+        },
+        "utilButtons": {
+            "showColorPicker": false,
+            "showDarkModeToggle": true,
+            "showKeyboardLayoutSwitch": false,
+            "showKeyboardToggle": true,
+            "showMicToggle": false,
+            "showNotepad": true,
+            "showPerformanceProfileToggle": false,
+            "showScreenCast": false,
+            "showScreenRecord": true,
+            "showScreenSnip": true
+        },
+        "verbose": true,
+        "vertical": false,
+        "vignette": {
+            "enabled": false,
+            "intensity": 0.6,
+            "radius": 0.5
+        },
+        "visualizer": {
+            "accentStrength": 70,
+            "barsOrigin": "bottom",
+            "density": 12,
+            "edgeInset": 0,
+            "edgeSoftness": 28,
+            "enable": false,
+            "frequencyProfile": "flat",
+            "gap": 2,
+            "height": 0.6,
+            "lineWidth": 2,
+            "multiMonitorMode": "primary",
+            "opacity": 0.35,
+            "pillEdgeFade": 92,
+            "pillScreenPadding": 24,
+            "pillUnderlap": 28,
+            "pillWingGap": 12,
+            "pillWingLength": 180,
+            "pillWingMode": "bounded",
+            "smoothing": 2,
+            "type": "bars",
+            "waveMode": "fill"
+        },
+        "weather": {
+            "city": "",
+            "enable": false,
+            "enableGPS": false,
+            "fetchInterval": 10,
+            "manualLat": 0,
+            "manualLon": 0,
+            "useUSCS": false
+        },
+        "workspaces": {
+            "alwaysShowNumbers": false,
+            "automaticIndicatorColor": true,
+            "dynamicCount": true,
+            "indicatorColor": "",
+            "invertScroll": false,
+            "monochromeIcons": true,
+            "numberMap": [
+                "1",
+                "2"
+            ],
+            "perMonitor": true,
+            "scrollBehavior": "workspace",
+            "scrollSteps": 3,
+            "showAppIcons": true,
+            "showNumberDelay": 300,
+            "shown": 10,
+            "useNerdFont": true,
+            "wrapAround": true
+        }
+    }
+}
