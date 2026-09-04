@@ -1,0 +1,38 @@
+module qs.services
+singleton AppSearch 1.0 AppSearch.qml
+singleton Audio 1.0 Audio.qml
+singleton Battery 1.0 Battery.qml
+singleton BluetoothStatus 1.0 BluetoothStatus.qml
+singleton Brightness 1.0 Brightness.qml
+singleton CalendarSync 1.0 CalendarSync.qml
+singleton CompositorService 1.0 CompositorService.qml
+DankSocket 1.0 DankSocket.qml
+singleton DateTime 1.0 DateTime.qml
+singleton DevNavigation 1.0 DevNavigation.qml
+singleton Events 1.0 Events.qml
+singleton FontSyncService 1.0 FontSyncService.qml
+singleton GameMode 1.0 GameMode.qml
+HyprlandData 1.0 HyprlandData.qml
+singleton Hyprsunset 1.0 Hyprsunset.qml
+singleton IconThemeService 1.0 IconThemeService.qml
+singleton Idle 1.0 Idle.qml
+singleton MemoryPressureService 1.0 MemoryPressureService.qml
+singleton MaterialThemeLoader 1.0 MaterialThemeLoader.qml
+singleton MprisController 1.0 MprisController.qml
+singleton Network 1.0 Network.qml
+singleton NiriService 1.0 NiriService.qml
+singleton Notifications 1.0 Notifications.qml
+singleton PolkitService 1.0 PolkitService.qml
+PolkitServiceImpl 1.0 PolkitServiceImpl.qml
+singleton RecorderStatus 1.0 RecorderStatus.qml
+singleton ResourceUsage 1.0 ResourceUsage.qml
+singleton ShellEditSession 1.0 ShellEditSession.qml
+singleton ShellLayoutController 1.0 ShellLayoutController.qml
+singleton SystemInfo 1.0 SystemInfo.qml
+singleton ThemeService 1.0 ThemeService.qml
+singleton TimerService 1.0 TimerService.qml
+singleton Todo 1.0 Todo.qml
+singleton TrayService 1.0 TrayService.qml
+singleton Translation 1.0 Translation.qml
+singleton WindowPreviewService 1.0 WindowPreviewService.qml
+singleton WorldClock 1.0 WorldClock.qml
